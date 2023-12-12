@@ -62,7 +62,7 @@ function Navbar() {
                         transition={{duration: 1}}>Contato</motion.li>
                     </Link>
                 </ul>
-                <a href="https://drive.google.com/drive/folders/1bHACewH4vL_rzRXD1oY_CllBgBgwb1-g?usp=drive_link" target='_blank'>
+                <a href="https://drive.google.com/file/d/19Vd75NbuSLXa2rlzeoFWQ6i2uWUfZGKn/view?usp=sharing" target='_blank'>
                         <motion.button
                         initial={{x: -10, opacity: 0}}
                         animate={{x:0, opacity: 1}}
